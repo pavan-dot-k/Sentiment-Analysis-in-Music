@@ -1,0 +1,1 @@
+bart_baseline_full_256	Time: 0:35	Epoch 1: 100/6633	Loss: 2.3300200700759888	Avg loss: 4.164739488375069

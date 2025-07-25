@@ -1,0 +1,6 @@
+bart_fusion_full_256	Time: 2:10	Epoch 1: 100/396	Loss: 8.124031291149631	Avg loss: 8.124031291149631
+bart_fusion_full_256	Time: 4:9	Epoch 1: 200/396	Loss: 4.387869863510132	Avg loss: 4.387869863510132
+bart_fusion_full_256	Time: 5:57	Epoch 1: 300/396	Loss: 4.1546763634681705	Avg loss: 4.1546763634681705
+bart_fusion_full_256	Time: 9:3	Epoch 2: 100/396	Loss: 3.988082073666723	Avg loss: 3.988082073666723
+bart_fusion_full_256	Time: 10:22	Epoch 2: 200/396	Loss: 4.121008605957031	Avg loss: 4.121008605957031
+bart_fusion_full_256	Time: 11:45	Epoch 2: 300/396	Loss: 4.023273181915283	Avg loss: 4.023273181915283
